@@ -12,8 +12,8 @@ A command-line interface for searching flight offers using the Amadeus API.
 
 1. Clone the repository:
    ```command
-   git clone https://github.com/yourusername/flight-search-cli.git
-   cd flight-search-cli
+   git clone https://github.com/robertomiguez/fruggle_script
+   cd fruggle_script
    ```
 
 2. Clone the repository:

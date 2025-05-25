@@ -1,0 +1,21 @@
+{
+  "name": "fruggle_script",
+  "version": "1.0.0",
+  "description": "search flight offers",
+  "license": "ISC",
+  "author": "miguez",
+  "main": "search.ts",
+  "scripts": {
+    "start": "node search.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "amadeus": "^11.0.0",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
